@@ -1340,12 +1340,12 @@ body {
 .cid-qBwxlmc8FU {
   background-image: url("../../../assets/images/51-2000x1345.jpg");
 }
-.cid-qCbb4vfENj {
+.cid-qCbAglZoJK {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qCbb4vfENj .mbr-text {
+.cid-qCbAglZoJK .mbr-text {
   color: #767676;
 }
 .cid-qBwCG7cTEP {
@@ -1390,6 +1390,14 @@ body {
   background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qCbb4vfENj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qCbb4vfENj .mbr-text {
+  color: #767676;
 }
 .cid-qARVSk98fc {
   padding-top: 60px;
