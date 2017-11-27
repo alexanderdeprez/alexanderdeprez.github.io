@@ -1744,3 +1744,24 @@ body {
     width: 100% !important;
   }
 }
+.cid-qCbPMvy3Sp {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qCbPMvy3Sp .image-block {
+  margin: auto;
+}
+.cid-qCbPMvy3Sp figcaption {
+  position: relative;
+}
+.cid-qCbPMvy3Sp figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qCbPMvy3Sp .image-block {
+    width: 100% !important;
+  }
+}
