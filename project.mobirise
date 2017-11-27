@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "alexanderdeprez",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 23,
@@ -31,7 +31,11 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/1-0292-128x192.png",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110276883-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110276883-1');\r\n</script>\r\n",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -78,11 +82,11 @@
           "_name": "content3",
           "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>De reeks 'Nur Für Verrückte' bestaat uit beelden die gemaakt zijn tijdens mijn verblijf in Berlijn. De titel beschrijft het algemene thema van de reeks. \"Wij\" de randfiguren van de maatschappij. Wij die door allen en iedereen als gestoorden bestempeld worden doordat we niet in het rijtje lopen. Doordat we trots zijn op wie we zijn en de obscure praktijken die wij beoefenen. De drugs, de seks, de feestjes. De manier waarop we leven en hoe we met gender en seksualiteit omgaan. Wij zijn de \"mad men\" en we voelen hier geen schaamte over</div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>De reeks “NN” gaat over de intimiteit en de relatie met mijn vriendin.<div>Ze is vierentwintig jaar ouder en heeft ME.</div><div>Ik fotografeer haar op bijna dagelijkse basis en probeer zo een eerlijk</div><div>beeld van haar en onze momenten samen te tonen.</div><div>Vaak als ze net wakker, moe, uitgefeest of ziek is. Ik wil haar tonen</div><div>zoals ze zich op die momenten blootgeeft.</div><div>De letters NN, haar initialen, verwijzen voor mij niet enkel meer naar</div><div>haar als persoon, maar ook naar de periode sinds ik haar leerde kennen</div><div>en naar de impact die ze op mijn leven heeft.</div></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qCbb4vfENj",
+          "_anchor": "content3-l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content3-l"
+          "_params": {}
         },
         {
           "_styles": {
