@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "alexanderdeprez",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "4.6.7",
     "theme": {
       "name": "mobirise4",
@@ -1520,7 +1520,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/51.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
